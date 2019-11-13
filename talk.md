@@ -1,5 +1,7 @@
 class: center, middle
 
+<img src="img/koch.png" style="width: 150px;"/>
+
 # NordicHPC: Welcome and introduction
 
 Text is free to share and remix under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
