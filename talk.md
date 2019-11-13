@@ -8,13 +8,13 @@ Richard Darst and Radovan Bast
 
 ---
 
-## How we got here
+# How we got here
 
 .left-column[
 - Early 2019: Richard visits Tromsø
 - May 2019: Workshop at NeIC conference [Reimagining Research Computing](https://nordichpc.github.io/2019-05-15-neic/)
-- In the evening: restaurant visit
-- Decision to bring people together
+- In the evening: restaurant visit and discussion
+- Decision to organize this event
 ]
 
 .right-column[
