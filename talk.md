@@ -89,15 +89,15 @@ Our program is designed with lots of breaks to talk and enjoy our time.
 # Accessibility and usability
 
 - "HPC" often means "big stuff"
-- https://www.top500.org
+- Clusters should be an appropriate place also for medium sized jobs
+- Too much focus on https://www.top500.org?
 - Some academic domains are better served than others
-- Documentation
-- Bureaucracy
-- Interfaces
+- Documentation is often not adapted to user needs
+- Often too much bureaucracy to get on a machine
+- Interfaces often limited to terminal
 - Clusters aren't adapting to the needs of users
 - Usability is driving people out
 - Often it's easier to spend your own money on commercial cloud services
-- Clusters should be an appropriate place also for medium sized jobs
 
 ---
 
@@ -111,7 +111,7 @@ class: center, middle
 
 - We all have the similar problems, but different unique solutions. Why not share?
 - Let's also share the "bad" ideas: things that did not work out.
-- We have the talk "Cool things and problems" and lightning talks
+- We have the talk "Cool things and problems" and lightning talks.
 
 ---
 
@@ -120,7 +120,7 @@ class: center, middle
 > *If you want to go fast, go alone. If you want to go far, go together.* [African proverb]
 
 - It's fun to work alone, but can be even more fun to work together
-- https://github.com/NordicHPC/ is a shared repository for "stuff" - anything that could be reasonable useful.
+- https://github.com/NordicHPC/ is a shared repository for "stuff" - anything that could be useful.
 - Donating to shared maintenance means more eyes, more use, and more visibility.
 - More info in a lightning talk.
 
@@ -152,3 +152,5 @@ class: center, middle
 
 - We need to set the stage behind what we are doing.
 - Richard will present practical info next.
+
+## Thanks to Aalto Science-IT for sponsoring this event!
